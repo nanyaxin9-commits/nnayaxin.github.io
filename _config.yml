@@ -13,14 +13,14 @@ title                    : "Yaxin Nan"
 title_separator          : "-"
 name                     : &name "Yaxin Nan"
 description              : &description "Master student in Software Engineering at Hunan Normal University, focusing on Remote Sensing Image Recognition"
-url                      : https://nanyaxin.github.io
+url                      : https://nnanyaxin.github.io
 baseurl                  : ""
 repository               : "nanyaxin/nanyaxin.github.io"
 
 # Site Author
 author:
   # Biographic information
-  avatar           : "/images/zhengjz.png"
+  avatar           : "/images/zjz.jpg"
   name             : "Yaxin Nan"
   pronouns         : # example: "she/her"  
   bio              : "Master student at Hunan Normal University | Remote Sensing Image Recognition"
