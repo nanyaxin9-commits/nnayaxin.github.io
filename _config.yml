@@ -13,7 +13,7 @@ title                    : "Yaxin Nan"
 title_separator          : "-"
 name                     : &name "Yaxin Nan"
 description              : &description "Master student in Software Engineering at Hunan Normal University, focusing on Remote Sensing Image Recognition"
-url                      : https://nnanyaxin.github.io
+url                      : https://nanyaxin.github.io
 baseurl                  : ""
 repository               : "nanyaxin/nanyaxin.github.io"
 
