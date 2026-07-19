@@ -13,9 +13,9 @@ title                    : "Yaxin Nan"
 title_separator          : "-"
 name                     : &name "Yaxin Nan"
 description              : &description "Master student in Software Engineering at Hunan Normal University, focusing on Remote Sensing Image Recognition"
-url                      : https://nanyaxin.github.io
-baseurl                  : ""
-repository               : "nanyaxin/nanyaxin.github.io"
+url                      : https://nanyaxin9-commits.github.io
+baseurl                  : "/nnayaxin.github.io"
+repository               : "nanyaxin9-commits/nnayaxin.github.io"
 
 # Site Author
 author:
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
-  github           : "nanyaxin"
+  github           : "nanyaxin9-commits"
   kaggle           : # Username  
   stackoverflow    : # User number
 
