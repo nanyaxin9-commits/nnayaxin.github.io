@@ -17,7 +17,7 @@ I am currently a Master student in Software Engineering at Hunan Normal Universi
 - Deep Learning for Geospatial Data
 
 ### Education
-- **M.S. in Software Engineering**, Hunan Normal University (2024 – Present)
+- **M.S. in Software Engineering**, Hunan Normal University (2025 – Present)
 
 ### Contact
 Email: [nanyaxin9@gmail.com](mailto:nanyaxin9@gmail.com)  
