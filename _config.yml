@@ -20,7 +20,7 @@ repository               : "nanyaxin9-commits/nnayaxin.github.io"
 # Site Author
 author:
   # Biographic information
-  avatar           : "https://raw.githubusercontent.com/nanyaxin9-commits/nnayaxin.github.io/master/images/avatar.png"
+  avatar           : "/nnayaxin.github.io/images/profile.png"
   name             : "Yaxin Nan"
   pronouns         : # example: "she/her"  
   bio              : "Master student at Hunan Normal University | Remote Sensing Image Recognition"
